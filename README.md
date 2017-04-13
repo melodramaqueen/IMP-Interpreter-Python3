@@ -1,2 +1,2 @@
-# IMP-Interpreter-Python3
-Imp interpreter python3 which treats integer variables
+# Toy-Interpreter-Python
+# Toy-Interpreter-Python
